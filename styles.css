@@ -1,0 +1,38 @@
+h1{
+    text-align: left;
+}
+p{
+    text-align: left;
+}
+.the-first-row{
+    display: flex;
+    gap: 50px;
+}
+.the-first-two-images{
+    display: flex;
+    gap: 20px;
+}
+.second-image{
+margin-top: 100px;
+height: 220px;
+}
+.first-image{
+margin-bottom: 100px;
+    height: 220px;
+}   
+.group-images{
+    display:flex;
+    gap: 20px;
+.image-item{flex:;}
+}
+.image-item img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 40px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
